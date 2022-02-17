@@ -1,0 +1,308 @@
+.header {
+  display: flex;
+  width: 1300px;
+  height: 70px;
+  background-color: rgba(140, 10, 13, 1);
+}
+
+.logoRoshen {
+  width: 177px;
+  height: 41px;
+  margin-left: 67px;
+  margin-top: 15px;
+}
+
+.headerText1 {
+  margin-left: 125px;
+  margin-top: 38px;
+  font-size: 14px;
+  color: #fbc37a;
+  font-family: "Minion Pro";
+}
+
+.headerText2 {
+  margin-left: 30px;
+  margin-top: 38px;
+  font-size: 14px;
+  color: #fbc37a;
+  font-family: "Minion Pro";
+}
+
+.headerText3 {
+  margin-left: 32px;
+  margin-top: 38px;
+  font-size: 14px;
+  color: #fbc37a;
+  font-family: "Minion Pro";
+}
+
+.headerText4 {
+  margin-left: 34px;
+  margin-top: 38px;
+  font-size: 14px;
+  color: #fbc37a;
+  font-family: "Minion Pro";
+}
+
+.headerText5 {
+  margin-left: 31px;
+  margin-top: 38px;
+  font-size: 14px;
+  color: #fbc37a;
+  font-family: "Minion Pro";
+}
+
+.headerText6 {
+  margin-left: 32px;
+  margin-top: 38px;
+  font-size: 14px;
+  color: #fbc37a;
+  font-family: "Minion Pro";
+}
+
+.flagEng {
+  width: 26px;
+  height: 18px;
+  margin-left: 93px;
+  margin-top: 34px;
+  font-family: "Minion Pro";
+}
+
+.headerText7 {
+  margin-left: 11px;
+  margin-top: 34px;
+  font-size: 18px;
+  color: #f5b765;
+}
+
+.background {
+  position: absolute;
+  width: 1300px;
+  height: 829px;
+  opacity: 0.8;
+  background-color: rgba(245, 232, 198, 1);
+}
+
+.background1 {
+  position: absolute;
+}
+
+.bg1Img {
+  width: 1300px;
+  height: 829px;
+}
+
+.factoryRoshen {
+  position: absolute;
+  margin-left: 67px;
+  margin-top: 26px;
+  border-bottom: 4px solid rgba(53, 4, 12, 1);
+  border-right: 6px solid rgba(53, 4, 12, 1);
+}
+
+.contentText0 {
+  position: absolute;
+  margin-left: 425px;
+  margin-top: 56px;
+  font-size: 60px;
+  color: #35040c;
+}
+
+.button1 {
+  position: absolute;
+  width: 189px;
+  height: 42px;
+  background-color: rgba(246, 204, 121, 1);
+  border-radius: 9px;
+  margin-left: 558px;
+  margin-top: 134px;
+  font-size: 24px;
+  color: #030303;
+  font-weight: bold;
+  font-family: "Minion Pro";
+}
+
+.rectangle1 {
+  position: absolute;
+  margin-left: 558px;
+  margin-top: 139px;
+}
+
+.leftBtn {
+  position: absolute;
+  margin-left: 93px;
+  margin-top: 181px;
+}
+
+.rightBtn {
+  position: absolute;
+  margin-left: 1152px;
+  margin-top: 181px;
+}
+
+.ellipse1 {
+  position: absolute;
+  margin-left: 620px;
+  margin-top: 337px;
+}
+
+.ellipse2 {
+  position: absolute;
+  margin-left: 644px;
+  margin-top: 337px;
+}
+
+.ellipse3 {
+  position: absolute;
+  margin-left: 668px;
+  margin-top: 337px;
+}
+
+.contentText1 {
+  position: absolute;
+  width: 269px;
+  height: 64px;
+  margin-left: 65px;
+  margin-top: 391px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Minion Pro";
+}
+.contentText2 {
+  position: absolute;
+  width: 276px;
+  height: 65px;
+  margin-left: 363px;
+  margin-top: 390px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Minion Pro";
+}
+.contentText3 {
+  position: absolute;
+  width: 233px;
+  height: 89px;
+  margin-left: 662px;
+  margin-top: 391px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Minion Pro";
+}
+.contentText4 {
+  position: absolute;
+  width: 249px;
+  height: 63px;
+  margin-left: 957px;
+  margin-top: 391px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Minion Pro";
+}
+
+.contentText5 {
+  position: absolute;
+  width: 259px;
+  height: 135px;
+  margin-left: 65px;
+  margin-top: 530px;
+  font-size: 16px;
+  font-family: "Minion Pro";
+}
+
+.contentText6 {
+  position: absolute;
+  width: 254px;
+  height: 158px;
+  margin-left: 362px;
+  margin-top: 530px;
+  font-size: 16px;
+  font-family: "Minion Pro";
+}
+
+.contentText7 {
+  position: absolute;
+  width: 252px;
+  height: 159px;
+  margin-left: 660px;
+  margin-top: 530px;
+  font-size: 16px;
+  font-family: "Minion Pro";
+}
+
+.contentText8 {
+  position: absolute;
+  width: 276px;
+  height: 133px;
+  margin-left: 957px;
+  margin-top: 530px;
+  font-size: 16px;
+  font-family: "Minion Pro";
+}
+
+.footer {
+  position: absolute;
+  width: 1300px;
+  height: 70px;
+  margin-top: 759px;
+  background-color: rgba(140, 10, 13, 1);
+}
+
+.footerText1 {
+  position: absolute;
+  width: 192px;
+  height: 14px;
+  margin-top: 36px;
+  margin-left: 67px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Minion Pro";
+  color: #fbc86b;
+}
+
+.footerText2 {
+  position: absolute;
+  width: 148px;
+  height: 38px;
+  margin-top: 12px;
+  margin-left: 361px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Minion Pro";
+  color: #fbc86b;
+}
+
+.footerText3 {
+  position: absolute;
+  width: 144px;
+  height: 37px;
+  margin-top: 12px;
+  margin-left: 658px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Minion Pro";
+  color: #fbc86b;
+}
+
+.footerText4 {
+  position: absolute;
+  width: 138px;
+  height: 36px;
+  margin-top: 12px;
+  margin-left: 957px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Minion Pro";
+  color: #fbc86b;
+}
+
+.logoFb {
+  position: absolute;
+  margin-left: 1164px;
+  margin-top: 21px;
+}
+
+.logoVk {
+  position: absolute;
+  margin-left: 1205px;
+  margin-top: 21px;
+}
